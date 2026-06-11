@@ -1,0 +1,22 @@
+h1 {
+    color: orange;
+    text-shadow: yellow 1px 0 10px;
+}
+
+h2 {
+    color: white;
+    text-shadow: red 1px 0 10px;
+
+}
+
+h3 {
+    color: white;
+    text-shadow: orange 1px 0 10px;
+}
+
+.KakomuKun {
+    color: rgb(252, 90, 117);
+    padding: 20px;
+    background-color: rgb(255, 255, 192);
+    border: dotted rgb(91, 211, 251) 20px;
+}

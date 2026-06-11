@@ -1,0 +1,19 @@
+h1 {
+    color: purple;
+    text-shadow: red 1px 0 10px;
+}
+
+h2 {
+    color: white;
+    text-shadow: purple 1px 0 10px;
+}
+
+h3 {
+    color: blue;
+    text-shadow: purple 1px 0 10px;
+}
+
+.naiyou{
+    background-color: #eeeeee;
+    border: solid  rgb(244, 143, 244)
+}
